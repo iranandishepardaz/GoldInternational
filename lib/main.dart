@@ -18,11 +18,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Let to Trade',
+      title: 'Gold International',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Let to Trade'),
+      home: MyHomePage(title: 'Gold International'),
       // home: WebViewExample(),
     );
   }
